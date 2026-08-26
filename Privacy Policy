@@ -1,0 +1,119 @@
+# Privacy Policy
+
+**Last Updated: August 26, 2026**
+
+This Privacy Policy explains how our Discord bot applications and related services, including **Sovereign, Jailor, Sentinel, Viceroy, Oracle, Vagnes, Warden, Glacier, Arbiter, Chamberlain, G Stage**, and associated services (collectively, the "Services"), process information when providing functionality within Discord.
+
+## 1. Information We May Process
+
+Depending on the application and features enabled within a Discord server, the Services may process limited Discord-related information necessary to provide their functionality.
+
+This may include:
+
+* Discord user IDs
+* Discord server (guild) IDs
+* Role and channel IDs
+* Member roles and server-related member information
+* Server nicknames
+* Registration-related information
+* Staff member identifiers associated with administrative actions
+* Moderation records and active disciplinary actions
+* Voice channel activity and accumulated voice statistics
+* Camera and streaming activity/status used for statistics
+* Staff activity and performance statistics
+* Role and rank information
+* Ticket and application-related information
+* Information necessary for anti-spam and server protection systems
+* Command-related information required to process supported bot commands
+
+Some server-specific registration systems may also process information voluntarily provided by users, such as a name or age, when required by that server's registration process.
+
+## 2. How Information Is Used
+
+Information is processed only as necessary to provide and maintain supported Discord functionality, including:
+
+* Member registration and onboarding
+* Role and nickname management
+* Server moderation and disciplinary systems
+* Maintaining moderation records and active punishments
+* Generating member and staff activity statistics
+* Staff rank and performance systems
+* Voice, camera, and streaming activity statistics
+* Ticket and application management
+* Self-role systems
+* Anti-spam and chat protection
+* Role and channel protection
+* Server administration and automation
+* Security, troubleshooting, and prevention of abuse
+
+We do not use Discord user data for third-party advertising.
+
+## 3. Data Storage
+
+Some information may be stored outside of Discord when persistent storage is necessary for a feature to function.
+
+For example, this may include member identifiers associated with activity statistics, moderation records, registration information, server configuration, or other information required to maintain enabled functionality.
+
+We aim to limit stored information to what is reasonably necessary for providing the relevant Services.
+
+## 4. Message Content
+
+Certain applications may process message content when required for features such as message-based commands, chat moderation, anti-spam protection, or other configured server functionality.
+
+Message content is accessed only when required to provide supported functionality.
+
+## 5. Voice, Camera, and Streaming Activity
+
+Certain applications may process voice-related activity to generate server statistics.
+
+This may include information such as time spent in voice channels and whether applicable Discord voice states indicate camera or streaming activity.
+
+These systems are designed to produce server activity statistics. They do not access the audio, video, or screen content of users' calls or streams.
+
+## 6. Data Sharing
+
+We do not sell Discord user data.
+
+Information may be processed between applications within our bot ecosystem when necessary to provide functionality. For example, a statistics service may generate activity statistics that another application uses to display a report to a user or authorized staff member.
+
+Information may also be disclosed where required by applicable law, necessary to protect the security of the Services, or necessary to investigate abuse.
+
+## 7. Data Retention
+
+Information is retained only for as long as reasonably necessary to provide the relevant functionality, maintain server configuration or records, resolve technical or security issues, or meet applicable obligations.
+
+Retention periods may differ depending on the type of information and the feature for which it is required.
+
+Information that is no longer reasonably necessary may be deleted or anonymized where appropriate.
+
+## 8. Security
+
+Reasonable technical and organizational measures are used to protect stored information against unauthorized access, alteration, disclosure, or loss.
+
+However, no online service or storage system can guarantee absolute security.
+
+## 9. User and Server Administrator Requests
+
+Users or server administrators may contact us regarding questions about information processed by the Services or requests concerning stored information.
+
+Requests may require verification of the Discord account, server ownership, or other relevant authorization before action can be taken.
+
+## 10. Children's Privacy
+
+The Services are intended to operate within Discord and are not designed to knowingly collect personal information from children in violation of applicable requirements.
+
+Users must comply with Discord's applicable age requirements and policies.
+
+## 11. Third-Party Services
+
+The Services depend on Discord and its API. Use of Discord remains subject to Discord's own terms, policies, and privacy practices.
+
+## 12. Changes to This Privacy Policy
+
+This Privacy Policy may be updated when our Services, data practices, legal requirements, or Discord's platform requirements change.
+
+The "Last Updated" date at the top indicates the latest revision.
+
+## 13. Contact
+
+Questions, privacy requests, or concerns regarding this Privacy Policy may be directed to the developer or support contact provided through the applications' official Discord presence or designated support channel.
