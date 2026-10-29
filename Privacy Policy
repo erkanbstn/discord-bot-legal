@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last Updated: August 26, 2026**
+**Last Updated: October 30, 2026**
 
 This Privacy Policy explains how our Discord bot applications and related services, including **Sovereign, Jailor, Sentinel, Viceroy, Oracle, Vagnes, Warden, Glacier, Arbiter, Chamberlain, G Stage**, and associated services (collectively, the "Services"), process information when providing functionality within Discord.
 
@@ -61,6 +61,14 @@ We aim to limit stored information to what is reasonably necessary for providing
 Certain applications may process message content when required for features such as message-based commands, chat moderation, anti-spam protection, or other configured server functionality.
 
 Message content is accessed only when required to provide supported functionality.
+
+Specifically:
+
+* **Prefix commands:** Our commands are processed by reading messages that begin with a command prefix. Discord's slash commands do not currently let us offer the same server-configurable controls (choosing the target member, channel, and role, and applying our permission checks), so these commands require the Message Content intent.
+* **Not stored:** Message content is read in memory to process a command, apply chat or spam protection, or respond to a bot mention. It is not saved to our database. Short-lived in-memory copies (for example, the last deleted message used by a moderation command) are discarded and are not kept permanently.
+* **Ticket transcripts:** When a ticket is closed, its conversation may be archived to a log channel inside the same Discord server, where server administrators control access. It is not sent to any external service.
+* **No AI training:** Message content is never used to train machine learning or AI models and is never sold or shared with third parties.
+* **Opt-out:** Because commands and server protection work by reading messages in the server, individual users cannot opt out of message processing while using the server's bots. Users who do not want their messages processed can avoid sending them in channels where the bots are active, or contact the developer.
 
 ## 5. Voice, Camera, and Streaming Activity
 
