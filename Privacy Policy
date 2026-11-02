@@ -64,7 +64,8 @@ Message content is accessed only when required to provide supported functionalit
 
 Specifically:
 
-* **Prefix commands:** Our commands are processed by reading messages that begin with a command prefix. Discord's slash commands do not currently let us offer the same server-configurable controls (choosing the target member, channel, and role, and applying our permission checks), so these commands require the Message Content intent.
+* **Prefix commands:** Our commands are currently processed by reading messages that begin with a command prefix, together with our server-configurable permission checks for the target member, channel, and role. Moving all of them to application commands is a large change that we are evaluating, so for now these commands require the Message Content intent.
+* **Edited and deleted message log:** When a message is edited or deleted, server staff can see the previous and new text in a private staff-only log channel of the same Discord server. This lets moderators review rule violations that users remove to hide them. The log stays inside Discord and is not sent to any external service.
 * **Not stored:** Message content is read in memory to process a command, apply chat or spam protection, or respond to a bot mention. It is not saved to our database. Short-lived in-memory copies (for example, the last deleted message used by a moderation command) are discarded and are not kept permanently.
 * **Ticket transcripts:** When a ticket is closed, its conversation may be archived to a log channel inside the same Discord server, where server administrators control access. It is not sent to any external service.
 * **No AI training:** Message content is never used to train machine learning or AI models and is never sold or shared with third parties.
